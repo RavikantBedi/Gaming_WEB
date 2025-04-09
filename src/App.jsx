@@ -1,4 +1,5 @@
-import Hero from './components/hero.jsx'
+
+import Hero from "./components/Hero.jsx";
 import About from './components/about.jsx'
 import NavBar from './components/NavBar.jsx'
 import Features from './components/Features.jsx'
