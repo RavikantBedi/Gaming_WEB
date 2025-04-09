@@ -1,6 +1,6 @@
 
 import Hero from "./components/Hero.jsx";
-import About from './components/about.jsx'
+import About from "./components/About.jsx";
 import NavBar from './components/NavBar.jsx'
 import Features from './components/Features.jsx'
 import Storry from './components/Storry.jsx'
